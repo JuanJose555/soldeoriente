@@ -1,0 +1,2 @@
+# soldeoriente
+paigina para informatica
